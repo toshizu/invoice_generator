@@ -1,0 +1,16 @@
+# 出力ファイル（生成された見積書など）
+output/
+
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+
+# 実行ログや一時ファイル（任意で追加）
+*.log
+*.tmp
+
+# テンプレートファイルのバックアップ（Excel自動保存など）
+~$*.xlsx
