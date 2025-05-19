@@ -2,7 +2,7 @@
 :: --- 設定（必要に応じて変更） ---
 
 :: 1. Anacondaインストール先（環境に応じて書き換え）
-set ANACONDA_PATH=C:\Users\chopi\anaconda3
+set ANACONDA_PATH=C:\Users\%USERNAME%\anaconda3
 
 :: 2. 実行する仮想環境名（通常は base）
 set ENV_NAME=base
