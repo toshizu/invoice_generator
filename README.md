@@ -17,7 +17,7 @@
 
 ## 🧱 フォルダ構成
 
-05_invoice_generator/
+<pre lang="markdown">"""05_invoice_generator/
 ├── input/ # 注文情報・商品マスタ（CSV）
 │ ├── orders.csv
 │ └── products.csv
@@ -35,8 +35,8 @@
 │
 ├── run_quotation.bat # 見積書を生成するバッチ
 ├── run_invoice.bat # 請求書を生成するバッチ
-└── README.md
-
+└── README.md"""</pre>
+  
 > ※ script/に、開発段階で使用した.ipynbファイルを開発ログとして保存してあります。
 
 ---
