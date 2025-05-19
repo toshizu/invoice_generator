@@ -17,7 +17,7 @@
 
 ## 🧱 フォルダ構成
 
-<pre lang="markdown">"""05_invoice_generator/
+<pre lang="markdown">05_invoice_generator/
 ├── input/ # 注文情報・商品マスタ（CSV）
 │ ├── orders.csv
 │ └── products.csv
@@ -35,7 +35,7 @@
 │
 ├── run_quotation.bat # 見積書を生成するバッチ
 ├── run_invoice.bat # 請求書を生成するバッチ
-└── README.md"""</pre>
+└── README.md</pre>
   
 > ※ script/に、開発段階で使用した.ipynbファイルを開発ログとして保存してあります。
 
@@ -52,8 +52,8 @@
 
 - Anacondaの `python` を使うには、環境変数 `Path` に以下を含める必要があります：
 
-C:\Users\＜ユーザー名＞\anaconda3
-C:\Users\＜ユーザー名＞\anaconda3\Scripts
+<pre lang="markdown">C:\Users\＜ユーザー名＞\anaconda3
+C:\Users\＜ユーザー名＞\anaconda3\Scripts</pre>
 
 
 
