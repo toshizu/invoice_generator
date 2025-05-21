@@ -78,8 +78,8 @@ C:\Users\＜ユーザー名＞\anaconda3\Scripts</pre>
 
 ## ・ 出力例
 
-![見積書サンプル](sample_images/O0001_quotation.png)
-![請求書サンプル](sample_images/O0001_invoice.png)
+![見積書サンプル](sample_images/O0003_quotation.png)
+![請求書サンプル](sample_images/O0003_invoice.png)
 > ※ 実際の出力は `template/quotation_template.xlsx` をベースにしています
 
 
