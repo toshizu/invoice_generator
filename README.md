@@ -1,4 +1,4 @@
-# 🧾 請求書・見積書 自動作成ツール（invoice_generator）
+#  請求書・見積書 自動作成ツール（invoice_generator）
 
 ## ・ 概要
 
