@@ -1,0 +1,11 @@
+product_id,product_name,unit_price,unit,note,tax_rate,category,supplier
+P001,ノートパソコン,100000,台,15.6インチ SSD 512GB,10,PC本体,TechSupplier A
+P002,レーザープリンタ,40000,台,両面印刷対応 A4,10,周辺機器,OfficeGear Inc.
+P003,インクカートリッジ,3000,個,ブラック・カラー対応,10,消耗品,InkWorks
+P004,HDMIケーブル,1200,本,1.5m 金メッキ仕様,10,周辺機器,CableMart
+P005,USBメモリ 64GB,2000,本,USB 3.0対応,10,周辺機器,MemoryWorld
+P006,無線マウス,2500,個,2.4GHz ワイヤレス,10,周辺機器,Peripheral Co.
+P007,液晶モニター 24インチ,18000,台,IPS 非光沢 HDMI対応,10,周辺機器,Display Tech
+P008,キーボード（日本語配列）,3500,個,USB接続タイプ,10,周辺機器,Keyboards Ltd.
+P009,Webカメラ フルHD,5000,個,1080p対応 マイク内蔵,10,周辺機器,VisionWorks
+P010,有線LANアダプタ,2800,個,USB-C対応 ギガビット,10,周辺機器,NetConnect
